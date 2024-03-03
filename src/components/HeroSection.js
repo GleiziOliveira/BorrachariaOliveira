@@ -38,7 +38,7 @@ const HeroSection = () => {
         >
           <div className="w-[250px] h-[250px] lg:w-[300px] lg:h-[300px] relative ">
             <Image
-              src="/imagens/foto.png"
+              src="/imagens/Foto.png"
               alt="Mãos segurando um Pneu"
               className="absolute inset-0 object-cover"
               layout="fill"
